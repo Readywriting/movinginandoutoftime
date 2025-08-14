@@ -47,7 +47,7 @@ To open this Twine in a browser, download both the HTML and the Media file folde
  
 ### Additional links
 <!-- If desired, including your own GitHub repository, a relevant website, or other -->
-THe original github repositiory is located at (https://github.com/Readywriting/movinginandoutoftime/tree/main). I've also made another eLit project based on the text of Moving in and Out of Time, Word Vomit, which can be experienced here: (https://readywriting.github.io/wordvomit/) and you can access the source code here: (https://github.com/Readywriting/wordvomit).
+The original github repositiory is located at (https://github.com/Readywriting/movinginandoutoftime/tree/main). I've also made another eLit project based on the text of Moving in and Out of Time, Word Vomit, which can be experienced here: (https://readywriting.github.io/wordvomit/) and you can access the source code here: (https://github.com/Readywriting/wordvomit).
 
 ### License
 <!-- If desired, you may apply your own license to your materials. If so, include a LICENSE.txt file in the root directory of your repository and link to it here. We ask that you consider using open-source licenses like Creative Commons to facilitate readers using and developing your sample resources. Unless you indicate otherwise, all material in EnTwine will be licensed as CC BY-SA 4.0. -->
